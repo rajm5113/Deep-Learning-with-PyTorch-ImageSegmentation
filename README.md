@@ -86,9 +86,8 @@ Example Output:
 👨‍💻 Author
 Raj Mishra
 
-GitHub: @yourusername
-LinkedIn: Raj Mishra(update link)
-Twitter: @yourhandle(optional)
+GitHub: @rajm5113
+LinkedIn: Raj Mishra(https://www.linkedin.com/in/raj-mishra-4ba018202/)
 
 
 🙏 Acknowledgments
